@@ -70,6 +70,126 @@
       "price": "300",
       "imageSrc": "https://picsum.photos/seed/picsum2/421/261",
       "id": 9
+    },
+    {
+      "category": "shirt",
+      "gender": "male",
+      "price": "333",
+      "title": "react collar",
+      "imageSrc": "https://picsum.photos/seed/picsum2/421/261",
+      "id": 10
+    },
+    {
+      "imageSrc": "https://picsum.photos/seed/picsum2/421/261",
+      "title": "acds",
+      "category": "T-shirt",
+      "gender": "female",
+      "price": "1234",
+      "id": 11
+    },
+    {
+      "imageSrc": "https://picsum.photos/seed/picsum2/421/261",
+      "title": "React1",
+      "category": "jeans",
+      "gender": "male",
+      "price": "235",
+      "id": 12
+    },
+    {
+      "imageSrc": "https://picsum.photos/seed/picsum2/421/261",
+      "title": "Shirt22",
+      "gender": "male",
+      "price": "456",
+      "id": 13
+    },
+    {
+      "imageSrc": "https://picsum.photos/seed/picsum2/421/261",
+      "title": "shirt 3",
+      "gender": "female",
+      "price": "234",
+      "id": 14
+    },
+    {
+      "imageSrc": "https://picsum.photos/seed/picsum2/421/261",
+      "title": "shirt 3",
+      "gender": "female",
+      "price": "234",
+      "id": 15
+    },
+    {
+      "imageSrc": "https://picsum.photos/seed/picsum2/421/261",
+      "title": "shirt 3",
+      "gender": "female",
+      "price": "234",
+      "id": 16
+    },
+    {
+      "imageSrc": "https://picsum.photos/seed/picsum2/421/261",
+      "category": "jeans",
+      "id": 17
+    },
+    {
+      "imageSrc": "https://picsum.photos/seed/picsum2/421/261",
+      "title": "Collar Shirt",
+      "category": "jeans",
+      "gender": "unisex",
+      "price": "306",
+      "id": 18
+    },
+    {
+      "imageSrc": "https://picsum.photos/seed/picsum2/421/261",
+      "title": "Jeans-111",
+      "category": "jeans",
+      "gender": "female",
+      "price": "708",
+      "id": 19
+    },
+    {
+      "imageSrc": "https://picsum.photos/seed/picsum2/421/261",
+      "title": "cbdce",
+      "category": "T-shirt",
+      "gender": "male",
+      "price": "508",
+      "id": 20
+    },
+    {
+      "title": "acsd",
+      "category": "shirt",
+      "gender": "female",
+      "price": "200",
+      "imageSrc": "https://picsum.photos/seed/picsum2/421/261",
+      "id": 21
+    },
+    {
+      "imageSrc": "https://picsum.photos/seed/picsum2/421/261",
+      "title": "xyz",
+      "category": "T-shirt",
+      "gender": "female",
+      "price": "908",
+      "id": 22
+    },
+    {
+      "imageSrc": "https://picsum.photos/seed/picsum2/421/261",
+      "title": "zxd",
+      "category": "T-shirt",
+      "gender": "female",
+      "price": "233",
+      "id": 23
+    },
+    {
+      "imageSrc": "https://picsum.photos/seed/picsum2/421/261",
+      "title": "hero shirt",
+      "gender": "male",
+      "price": "322",
+      "id": 24
+    },
+    {
+      "imageSrc": "https://picsum.photos/seed/picsum2/421/261",
+      "title": "acs",
+      "category": "T-shirt",
+      "gender": "female",
+      "price": "321",
+      "id": 25
     }
   ]
 }
